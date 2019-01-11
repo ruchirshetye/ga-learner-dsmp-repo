@@ -6,8 +6,9 @@ The rise of superheroes and supervillains is at an all time high. The 'Academy o
 
 **About the Dataset**
 
-The dataset has details of 594 super hero characters with the following 17 features.
-Feature	         Description
+The dataset has details of 594 super hero characters with the following 17 features.</br>
+<pre>
+Feature	         Description</br>
 ID	    				 Unique character ID</br>
 Name	           Name of the character</br>
 Gender	         Male/Female</br>
@@ -24,7 +25,7 @@ SkinColor	       Skin color of the the character</br>
 EyeColor	       Eye color of the character</br>
 HairColor        Hair color of the character</br>
 Race	           Which race the character belongs to</br>
-
+</pre>
 **Why solve this project?**</br>
 After completing this project, you will have a better grip on the applications of descriptive statistics. In this project, you will be applying the following concepts:</br>
 
