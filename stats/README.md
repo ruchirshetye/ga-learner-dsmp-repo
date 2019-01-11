@@ -9,7 +9,7 @@ The rise of superheroes and supervillains is at an all time high. The 'Academy o
 The dataset has details of 594 super hero characters with the following 17 features.
 <pre>
 Feature	         Description
-ID	             Unique character ID</br>
+ID	    				 Unique character ID</br>
 Name	           Name of the character</br>
 Gender	         Male/Female</br>
 Intelligence	   Intelligence points of the character</br>
